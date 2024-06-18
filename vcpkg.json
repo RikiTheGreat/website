@@ -1,0 +1,21 @@
+{
+  "name" : "website",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "f7423ee180c4b7f40d43402c2feb3859161ef625",
+  "dependencies" : [ {
+    "name" : "boost-asio",
+    "version>=" : "1.85.0#2"
+  },{
+    "name" : "boost-beast",
+    "version>=" : "1.85.0#2"
+  },{
+    "name" : "vcpkg-boost",
+    "version>=" : "2024-05-15"
+  }, {
+    "name" : "vcpkg-cmake-config",
+    "version>=" : "2024-05-23"
+  }, {
+    "name" : "vcpkg-cmake",
+    "version>=" : "2024-04-23"
+  } ]
+}
